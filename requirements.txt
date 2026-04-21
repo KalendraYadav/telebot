@@ -1,0 +1,3 @@
+python-telegram-bot==21.1.1
+sqlalchemy==2.0.29
+python-dotenv==1.0.1
